@@ -9,11 +9,9 @@ const App = () => {
 
   const prevPerson = () => {
     setIndex(index === 0 ? reviews.length - 1 : index - 1);
-    setIndex((index - 1 + reviews.length) % reviews.length);
   };
   const nextPerson = () => {
     setIndex(index === reviews.length - 1 ? 0 : index + 1);
-    setIndex((index + 1) % reviews.length);
   };
   const randomPerson = () => {
     let num = Math.floor(Math.random() * reviews.length);
