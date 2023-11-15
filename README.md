@@ -4,8 +4,7 @@
 
 
 This is a simple React project built with Vite. I created this project as part of React course on Udemy by John Smilga.
-![image](https://github.com/Rivki7/reviews/assets/117110504/d3ba3caf-14f6-4ea4-9858-c0e0f9140f89)
-
+![image](https://github.com/Rivki7/reviews/assets/117110504/ba536cc3-a3e3-4273-a7f6-3abe9f983c9e)
 
 
 ## Project Description
